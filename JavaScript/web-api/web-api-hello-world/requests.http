@@ -1,0 +1,2 @@
+## SENDING GET REQUEST TO: http://localhost:3000/
+GET http://localhost:3000/ HTTP/1.1
